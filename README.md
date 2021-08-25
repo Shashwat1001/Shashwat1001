@@ -3,8 +3,6 @@ Welcome to my GitHub profile, I am Shashwat Shankar and I am an enthusiastic con
 
 My current learning and project explorations are in these domains:
 
-• Quantum Computing & Quantum Information Science.
-
 • Artificial Intelligence- Reinforcement Learning (RL),AI at Edge.
 
 • Machine Learning- Statistical Machine Learning techniques and Algorithms.
